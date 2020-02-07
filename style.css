@@ -8,8 +8,8 @@ body, html{
 #container{
         max-width: 600%;
         height: 100vh;
-        background-color: white;
-        border: 1px solid red;
+        background-color: #fff;
+        border: 1px solid hidden;
         justify-content: center;
         display: flex;
         display: grid;
